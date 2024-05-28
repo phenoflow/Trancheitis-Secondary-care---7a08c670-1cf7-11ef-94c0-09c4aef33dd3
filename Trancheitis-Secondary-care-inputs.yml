@@ -1,0 +1,18 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/chronic-trancheitis-secondary-care---secondary.py
+inputModule3:
+  class: File
+  path: python/trancheitis-secondary-care-laryngotracheitis---secondary.py
+inputModule4:
+  class: File
+  path: python/trancheitis-secondary-care-unspecified---secondary.py
+inputModule5:
+  class: File
+  path: python/trancheitis-secondary-care-laryngitis---secondary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
